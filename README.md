@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Titus</h1>
+<h1 align="center">Hi I'm Titus</h1>
 <h3 align="center">3D Generalist and Python hobbist</h3>
 
 - 👨‍💻 All of my projects are available at [artstation](https://www.artstation.com/tituslvr)
