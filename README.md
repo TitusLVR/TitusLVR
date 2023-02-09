@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Titus</h1>
 <h3 align="center">3D Generalist and Python hobbist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tituslvr&label=Profile%20views&color=79bbd5&style=flat" alt="tituslvr" /> </p>
-
 - 👨‍💻 All of my projects are available at [artstation](https://www.artstation.com/tituslvr)
 
 - 📫 How to reach me [email](Titus.mailbox@gmail.com)
