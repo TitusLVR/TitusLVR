@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tituslvr&label=Profile%20views&color=79bbd5&style=flat" alt="tituslvr" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/tituslvr](https://www.artstation.com/tituslvr)
+- 👨‍💻 All of my projects are available at [artstation](https://www.artstation.com/tituslvr)
 
-- 📫 How to reach me **Titus.mailbox@gmail.com**
+- 📫 How to reach me [email](Titus.mailbox@gmail.com)
 
-- ⚡ My tools at Gumroad page **https://titus.gumroad.com/**
+- ⚡ My tools at [Gumroad](https://titus.gumroad.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
